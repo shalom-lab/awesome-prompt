@@ -192,7 +192,11 @@ onMounted(() => {
 // 加载提示词数据
 const loadPrompts = async () => {
   try {
-    const response = await fetch('/awesome_prompts.json')
+    // 使用 import.meta.env.BASE_URL 来获取正确的基础路径
+    const response = await fetch(`${import.meta.env.BASE_URL}awesome_prompts.json`)
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`)
+    }
     const data = await response.json()
     prompts.value = data
   } catch (error) {
