@@ -1,0 +1,92 @@
+[
+  {
+    "prompt": "作为高级架构师，请设计一个基于微服务的电商系统，要求包含订单、库存、支付、用户服务，并说明服务间通信方式和数据一致性解决方案。",
+    "category": "系统设计",
+    "keywords": ["微服务", "架构设计", "分布式系统", "电商平台"]
+  },
+  {
+    "prompt": "请对这段代码进行重构，重点考虑SOLID原则，并引入适当的设计模式来提高代码的可维护性和扩展性。同时注意性能优化。",
+    "category": "代码优化",
+    "keywords": ["重构", "设计模式", "SOLID", "性能优化"]
+  },
+  {
+    "prompt": "创建一幅现代中国风插画，融合传统水墨元素和现代设计风格，主题是'城市中的江南园林'",
+    "category": "艺术创作",
+    "keywords": ["中国风", "插画设计", "现代水墨", "视觉艺术"]
+  },
+  {
+    "prompt": "设计一套数据密集型应用的监控告警系统，包括性能指标采集、异常检测、告警规则配置和告警通知等功能模块。",
+    "category": "系统设计",
+    "keywords": ["监控系统", "可观测性", "告警机制", "系统运维"]
+  },
+  {
+    "prompt": "基于用户行为数据，分析并预测用户流失风险，提供具体的用户留存优化建议和精准营销策略。",
+    "category": "数据分析",
+    "keywords": ["用户分析", "数据挖掘", "精准营销", "留存优化"]
+  },
+  {
+    "prompt": "设计一个支持百万级并发的实时消息推送系统，要求消息严格有序，支持离线消息存储和消息重试机制。",
+    "category": "系统设计",
+    "keywords": ["高并发", "消息系统", "实时推送", "架构设计"]
+  },
+  {
+    "prompt": "Design a cloud-native application using microservices architecture with event-driven patterns, including detailed component diagrams and API specifications.",
+    "category": "System Design",
+    "keywords": ["microservices", "cloud-native", "event-driven", "architecture"]
+  },
+  {
+    "prompt": "Create a photorealistic 3D render of a futuristic smart city, highlighting sustainable technology integration and innovative transportation systems.",
+    "category": "Art Creation",
+    "keywords": ["3D rendering", "futuristic", "smart city", "concept art"]
+  },
+  {
+    "prompt": "Develop a machine learning pipeline for real-time fraud detection in financial transactions, including feature engineering and model deployment strategy.",
+    "category": "AI Development",
+    "keywords": ["machine learning", "fraud detection", "real-time", "fintech"]
+  },
+  {
+    "prompt": "Design a comprehensive DevOps workflow for a microservices-based application, including CI/CD pipeline, monitoring, and automated scaling policies.",
+    "category": "DevOps",
+    "keywords": ["CI/CD", "automation", "monitoring", "cloud infrastructure"]
+  },
+  {
+    "prompt": "Create a secure authentication system using JWT, implement role-based access control, and include security best practices for API protection.",
+    "category": "Security",
+    "keywords": ["authentication", "RBAC", "security", "API design"]
+  },
+  {
+    "prompt": "Analyze this e-commerce dataset to identify customer segments and provide actionable recommendations for personalized marketing campaigns.",
+    "category": "Data Analysis",
+    "keywords": ["customer segmentation", "analytics", "marketing", "personalization"]
+  },
+  {
+    "prompt": "Create an engaging video script for a product launch, incorporating storytelling elements and emotional hooks to captivate the audience.",
+    "category": "Content Creation",
+    "keywords": ["video marketing", "storytelling", "product launch", "script writing"]
+  },
+  {
+    "prompt": "Design a gamification system for an educational platform to increase student engagement and learning retention.",
+    "category": "Game Design",
+    "keywords": ["gamification", "education", "user engagement", "game mechanics"]
+  },
+  {
+    "prompt": "Develop a comprehensive SEO strategy for a new e-commerce website, including keyword research, content planning, and technical optimization.",
+    "category": "Digital Marketing",
+    "keywords": ["SEO", "content strategy", "keyword research", "technical SEO"]
+  },
+  {
+    "prompt": "Create a UI/UX design system that ensures consistency across web and mobile applications while maintaining accessibility standards.",
+    "category": "UI/UX Design",
+    "keywords": ["design system", "accessibility", "consistency", "user interface"]
+  },
+  {
+    "prompt": "Develop a blockchain-based supply chain tracking system for agricultural products with focus on transparency and traceability.",
+    "category": "Blockchain",
+    "keywords": ["supply chain", "traceability", "smart contracts", "distributed ledger"]
+  },
+  {
+    "prompt": "Write a research proposal for studying the impact of artificial intelligence on mental health therapy and counseling practices.",
+    "category": "Research",
+    "keywords": ["AI", "mental health", "therapy", "research methodology"]
+  }
+] 
