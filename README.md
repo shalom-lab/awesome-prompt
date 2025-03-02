@@ -67,21 +67,16 @@ We welcome all contributions! Here's how you can help:
 
 ### Adding New Prompts
 
-1. Add your prompts to `awesome_prompts.json`
+1. Add your prompts to `public/awesome_prompts.json`
 2. Each prompt should include:
-   - `prompt`: The actual prompt text
-   - `category`: The category it belongs to
-   - `keywords`: Array of relevant keywords
+   ```json
+   {
+     "prompt": "Your prompt text here",
+     "category": "Category Name",
+     "keywords": ["keyword1", "keyword2", "keyword3"]
+   }
+   ```
 3. Submit a Pull Request
-
-Example prompt format:
-```json
-{
-  "prompt": "Your prompt text here",
-  "category": "System Design",
-  "keywords": ["keyword1", "keyword2"]
-}
-```
 
 ### Other Contributions
 

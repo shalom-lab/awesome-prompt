@@ -67,21 +67,16 @@ npm run dev
 
 ### 添加新的提示词
 
-1. 在 `awesome_prompts.json` 中添加你的提示词
+1. 在 `public/awesome_prompts.json` 中添加你的提示词
 2. 每个提示词需要包含：
-   - `prompt`: 提示词内容
-   - `category`: 所属类别
-   - `keywords`: 相关关键词数组
+   ```json
+   {
+     "prompt": "你的提示词内容",
+     "category": "类别名称",
+     "keywords": ["关键词1", "关键词2", "关键词3"]
+   }
+   ```
 3. 提交 Pull Request
-
-提示词格式示例：
-```json
-{
-  "prompt": "你的提示词内容",
-  "category": "系统设计",
-  "keywords": ["关键词1", "关键词2"]
-}
-```
 
 ### 其他贡献方式
 
