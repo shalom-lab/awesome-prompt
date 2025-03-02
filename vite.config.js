@@ -4,10 +4,6 @@ import { resolve } from 'path'
 
 export default defineConfig({
   plugins: [vue()],
-  server: {
-    port: 3000
-  },
-  assetsInclude: ['**/*.json'],
   base: '/awesome-prompt/',
   build: {
     outDir: 'dist',

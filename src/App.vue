@@ -192,8 +192,9 @@ onMounted(() => {
 // 加载提示词数据
 const loadPrompts = async () => {
   try {
-    // 使用 import.meta.env.BASE_URL 来获取正确的基础路径
-    const response = await fetch(`${import.meta.env.BASE_URL}awesome_prompts.json`)
+    // 开发环境使用本地路径，生产环境使用相对于 base URL 的路径
+    const baseUrl = import.meta.env.DEV ? '' : '/awesome-prompt'
+    const response = await fetch(`${baseUrl}/awesome_prompts.json`)
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`)
     }
