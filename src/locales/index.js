@@ -4,7 +4,8 @@ export const messages = {
       title: 'Awesome Prompts',
       viewSelected: '已选提示词 ({count})',
       darkMode: '切换暗色模式',
-      github: '在 GitHub 上查看项目'
+      github: '在 GitHub 上查看',
+      easyPrompt: '访问 Easy Prompt'
     },
     search: {
       placeholder: '搜索提示词...'
@@ -41,7 +42,8 @@ export const messages = {
       title: 'Awesome Prompts',
       viewSelected: 'Selected Prompts ({count})',
       darkMode: 'Toggle Dark Mode',
-      github: 'View project on GitHub'
+      github: 'View on GitHub',
+      easyPrompt: 'Visit Easy Prompt'
     },
     search: {
       placeholder: 'Search prompts...'
