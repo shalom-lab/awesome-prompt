@@ -176,7 +176,7 @@ const showAllKeywords = ref(false)
 const keywordFilter = ref('')
 const showModal = ref(false)
 const currentLang = ref('zh')
-const simpleExportMode = ref(false)
+const simpleExportMode = ref(true)
 
 // 翻译函数
 const t = computed(() => (key) => {
