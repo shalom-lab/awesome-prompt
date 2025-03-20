@@ -220,5 +220,120 @@
       "therapy",
       "research methodology"
     ]
+  },
+   {
+    "prompt": "Translate the sentence 'The quick brown fox jumps over the lazy dog' into German.",
+    "category": "Translation",
+    "keywords": [
+      "language",
+      "translation",
+      "German",
+      "GPT-4",
+      "OpenAI"
+    ]
+  },
+  {
+    "prompt": "Generate a Python program that calculates the prime numbers up to 100.",
+    "category": "Programming",
+    "keywords": [
+      "Python",
+      "programming",
+      "prime numbers",
+      "GPT-4",
+      "OpenAI"
+    ]
+  },
+  {
+    "prompt": "Explain the principle of quantum computing in simple terms for a high school student.",
+    "category": "Explanation",
+    "keywords": [
+      "quantum computing",
+      "education",
+      "simplified",
+      "GPT-4",
+      "OpenAI"
+    ]
+  },
+  {
+    "prompt": "Write a 200-word blog post on how AI is changing the field of healthcare.",
+    "category": "Writing",
+    "keywords": [
+      "AI",
+      "healthcare",
+      "blog",
+      "GPT-4",
+      "OpenAI"
+    ]
+  },
+  {
+    "prompt": "Design a futuristic city using AI-based transportation and energy systems, explaining how it improves quality of life.",
+    "category": "Design",
+    "keywords": [
+      "AI",
+      "futuristic",
+      "transportation",
+      "energy",
+      "Bard",
+      "Google"
+    ]
+  },
+  {
+    "prompt": "Generate a dialogue between two characters in a dystopian future, discussing how AI has reshaped society.",
+    "category": "Writing",
+    "keywords": [
+      "AI",
+      "dystopia",
+      "dialogue",
+      "future",
+      "Claude",
+      "Anthropic"
+    ]
+  },
+  {
+    "prompt": "Generate a 3-minute speech on the ethical challenges of deploying AI in autonomous military systems.",
+    "category": "Writing",
+    "keywords": [
+      "AI",
+      "ethics",
+      "military",
+      "Grok",
+      "Microsoft"
+    ]
+  },
+  {
+    "prompt": "Summarize the plot of 'The Great Gatsby' in 100 words or less.",
+    "category": "Summarization",
+    "keywords": [
+      "literature",
+      "summary",
+      "The Great Gatsby",
+      "GPT-4",
+      "OpenAI"
+    ]
+  },
+  {
+    "prompt": "Create an AI chatbot script that helps users prepare for a job interview in data science.",
+    "category": "Chatbot",
+    "keywords": [
+      "AI",
+      "chatbot",
+      "job interview",
+      "data science",
+      "Claude",
+      "Anthropic"
+    ]
+  },
+  {
+    "prompt": "Describe a use case for AI in personalized learning, explaining its benefits for students and teachers.",
+    "category": "Explanation",
+    "keywords": [
+      "AI",
+      "personalized learning",
+      "education",
+      "GPT-4",
+      "OpenAI",
+      "Claude",
+      "Anthropic"
+    ]
   }
 ]
